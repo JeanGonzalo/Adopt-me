@@ -1,0 +1,23 @@
+notes tools ->
+
+npm init
+npm i -D prettier
+
+"format": "prettier \"src/**/*.{js,html}\" --write",
+
+de esta manera en el package.json -> se puede ver la calidad del codigo
+y a la hora que reenderiza, manyas ?
+
+->
+de aqui se realiza la configuraciones de prettier
+
+create -> .eslintrc.json -> para la configuracion de prettier con eslintrc
+
+======================
+
+instalamos parcel npm install -D parcel-bundler -> que es un empaquetarde de aplicaciones web
+                                                nos ayuda en la calidad de las aplicaciones
+
+
+utilizar solo las dependencias que se uquiera usar, tambien es un formda de  calidad d eocdigo
+
