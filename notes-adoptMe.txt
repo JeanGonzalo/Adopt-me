@@ -21,3 +21,6 @@ instalamos parcel npm install -D parcel-bundler -> que es un empaquetarde de apl
 
 utilizar solo las dependencias que se uquiera usar, tambien es un formda de  calidad d eocdigo
 
+
+ejecutar -> npm run dev
+
